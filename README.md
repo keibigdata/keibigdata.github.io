@@ -1,4 +1,9 @@
-Introduction
+
+
+KEI Bigdata Research Team
+
+
+<!-- Introduction
 ============
 
 ![Bower version](https://img.shields.io/bower/v/adminlte.svg)
@@ -121,4 +126,4 @@ Donations
 ---------
 Donations are **greatly appreciated!**
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate") -->
